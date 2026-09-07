@@ -55,7 +55,7 @@ Each folder represents a standalone project and includes:
 
 Feel free to connect or share feedback:
 - GitHub: [github.com/Prabh022](https://github.com/Prabh022/prabhjeet-singh-profile)
-- LinkedIn: [linkedin.com/in/prabhjeet](https://linkedin.com/in/prabhjeet)
+- LinkedIn: [linkedin.com/in/prabhjeet](https://www.linkedin.com/in/prabhjeet-singh-/)
 
 ---
 
